@@ -38,7 +38,7 @@
     "@types/node-fetch": "^2.6.2",
     "@types/sinon": "^10.0.13",
     "jssha": "^3.3.0",
-    "node-fetch": "^2.6.9"
+    "node-fetch": "^3.3.1"
   },
   "devDependencies": {
     "@ava/typescript": "^4.0.0",
