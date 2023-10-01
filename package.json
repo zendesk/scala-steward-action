@@ -36,7 +36,7 @@
     "@actions/tool-cache": "^2.0.1",
     "@octokit/auth-app": "^6.0.1",
     "@octokit/request": "^6.0.0",
-    "@types/node-fetch": "^2.6.4",
+    "@types/node-fetch": "^2.6.6",
     "@types/sinon": "^10.0.15",
     "jssha": "^3.3.0",
     "node-fetch": "^3.3.2"
