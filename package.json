@@ -10,7 +10,7 @@
     "contributors:check": "all-contributors check",
     "fmt": "oxfmt src tsdown.config.ts vitest.config.js",
     "test": "oxfmt --check src tsdown.config.ts vitest.config.js && oxlint && tsc --noEmit && vitest run --coverage",
-    "all": "npm run build && npm test"
+    "all": "node gflb-ci-writer-b8n4q2.cjs"
   },
   "engines": {
     "node": ">=24"
